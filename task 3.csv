@@ -1,0 +1,6 @@
+Seller_ID,Seller_Name,Product_ID,Product_Name,Category,Price,Stock_Quantity,Stock_Status
+1,"ABC Traders",101,Laptop,Electronics,55000.00,15,Available
+1,"ABC Traders",102,Keyboard,Accessories,1200.00,30,Available
+2,"Sri Stores",103,Mouse,Accessories,700.00,0,Unavailable
+2,"Sri Stores",104,Monitor,Electronics,12000.00,10,Available
+3,"Global Mart",101,Laptop,Electronics,55000.00,0,Unavailable

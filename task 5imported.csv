@@ -1,0 +1,9 @@
+Payment_ID,Customer_ID,Amount,Payment_Mode,Payment_Date,Payment_Status,Transaction_Ref
+101,1,2500.00,UPI,2026-08-20,Successful,TXN1001
+102,2,1500.00,Card,2026-08-20,Successful,TXN1002
+103,3,3000.00,"Net Banking",2026-08-21,Failed,TXN1003
+104,4,1200.00,UPI,2026-08-21,Successful,TXN1004
+105,5,5000.00,Card,2026-08-22,Pending,TXN1005
+106,6,1800.00,UPI,2026-08-22,Successful,TXN1006
+107,7,2200.00,Cash,2026-08-23,Successful,TXN1007
+108,8,3500.00,Card,2026-08-23,Failed,TXN1008
